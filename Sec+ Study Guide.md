@@ -72,6 +72,7 @@ Business processes impacting security operation
 * Blackout plan
 * Maintenence Window
 * Standard Operating Procedure
+
 Technical Implications
 * Allow lists/deny lists
 * Restricted Activities
@@ -80,9 +81,11 @@ Technical Implications
 * Application Restart
 * Legal applications
 * Dependencies
+
 Documentation
 * Updating Diagrams
 * Updating policies/procedures
+
 Version Control
 
 ## 
