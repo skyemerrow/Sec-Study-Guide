@@ -1,35 +1,26 @@
 # 1.0 General Security Concepts
-
 ## 1.1 Compare and Contrast Various Types of Security Controls
-
-Categories:
+### Categories:
 * Technical
 * Managerial
 * Operational
 * Physical
-
-Control Types:
+### Control Types:
 * Preventative
 * Deterrent
 * Detective
 * Corrective
 * Compensating
 * Directive
-
 ## 1.2 Summarize Fundamental Security Concepts
-
-Confidentiality, Integrity, and Availability (CIA)
-
-Non-repudiation
-
-Authentication, Authorization, and Accounting (AAA) 
+### Confidentiality, Integrity, and Availability (CIA)
+### Non-repudiation
+### Authentication, Authorization, and Accounting (AAA) 
 * Authenticating people
 * Authenticating systems
 * Authenticating models
-  
-Gap analysis
-
-Zero trust
+### Gap analysis
+### Zero trust
 * Control Plane:
   1. Adaptive dentity
   2. Threat scope reduction
@@ -39,9 +30,8 @@ Zero trust
 * Data Plane
   1. Implicit Trust Zones
   2. Subject/System
-  3. Policy Enforcement Point
-     
-Physical Security
+  3. Policy Enforcement Point 
+### Physical Security
 * Bollards
 * Access Control Vestibule
 * Fencing
@@ -53,17 +43,14 @@ Physical Security
   1. Infrared
   2. Pressure
   3. Microwave
-  4. Ultrasonic
-     
-Deception and Disruptions Technology
+  4. Ultrasonic     
+### Deception and Disruptions Technology
 * Honeypot
 * Honeynet
 * Honeyfile
 * Honeytoken
-
 ## 1.3 Explain the Importance of Change Management Processes and the Impact to Security
-
-Business processes impacting security operation
+### Business processes impacting security operation
 * Approval process
 * Ownership
 * Stakeholders
@@ -72,8 +59,7 @@ Business processes impacting security operation
 * Blackout plan
 * Maintenence Window
 * Standard Operating Procedure
-
-Technical Implications
+### Technical Implications
 * Allow lists/deny lists
 * Restricted Activities
 * Downtime
@@ -81,21 +67,16 @@ Technical Implications
 * Application Restart
 * Legal applications
 * Dependencies
-
-Documentation
+### Documentation
 * Updating Diagrams
 * Updating policies/procedures
-
-Version Control
-
+### Version Control
 ## 1.4 Explain the importance of using appropriate cryptographic solutions
-
-Public key infrastructure (PKI)
+### Public key infrastructure (PKI)
 * Public key
 * Private key
 * Key escrow
-
-Encryption
+### Encryption
 * Level
   1. Full-disk
   2. Partition
@@ -109,31 +90,22 @@ Encryption
 *  Key exchange
 *  Algorithms
 *  Key length
-
-Tools
+### Tools
 *  Trusted Platform Module (TPM)
 *  Hardware security module (HSM)
 *  Key management system
 *  Secure enclave
-
-Obfuscation
+### Obfuscation
 * Steganography
 * Tokenization
 * Data masking
-
-Hashing
-
-Salting
-
-Digital Signatures
-
-Key Stretching
-
-Blockchain
-
-Open public ledger
-
-Certificates
+### Hashing
+### Salting
+### Digital Signatures
+### Key Stretching
+### Blockchain
+### Open public ledger
+### Certificates
 * Certificate Authorities
 * Certificate revocation lists (CRLs)
 * Online Certificate Status Protocol (OCSP)
@@ -142,25 +114,20 @@ Certificates
 * Root of trust
 * Certificate signing request (CSR) generation
 * Wildcard
-
 # 2.0 Threats, Vulnerabilities, and Mitigations
-
 ## 2.1 Compare and contrast common threat actors and motivations
-
-Threat actors
+### Threat actors
 *  Nation-state
 *  Unskilled attacker
 *  Hacktivist
 *  Insider threat
 *  Organized crime
 *  Shadow IT
-
-Attributes of actors
+### Attributes of actors
 *  Internal/external
 *  Resources/funding
 *  Level of sophistication/capability
-
-Motivations
+### Motivations
 *  Data exfiltration
 *  Espionage
 *  Service disruption
@@ -171,42 +138,29 @@ Motivations
 *  Revenge
 *  Disruption/chaos
 *  War
-
 ## 2.2 Explain common threat vectors and attack surfaces
-
-Message-based
+### Message-based
 * Email
 * Short message servce (SMS)
 * Instant messaging (IM)
-
-Image-based
-
-File-based
-
-Voice call
-
-Removable device
-
-Vulnerable software
+### Image-based
+### File-based
+### Voice call
+### Removable device
+### Vulnerable software
 * Client-based vs agentless
-
-Unsupported systems and applications
-
-Unsecure networks
+### Unsupported systems and applications
+### Unsecure networks
 * Wireless
 * Wired
 * Bluetooth
-
-Open service ports
-
-Default credentials
-
-Supply chain
+### Open service ports
+### Default credentials
+### Supply chain
 * Managed service providers (MSPs)
 * Vendors
 * Suppliers
-
-Human vectors/social engineering
+### Human vectors/social engineering
 * Phishing
 * Vishing
 * Smishing
@@ -217,6 +171,5 @@ Human vectors/social engineering
 * Watering hole
 * Brand impersonation
 * Typosquatting
-
-## Explain various types of vulnerabilities
+## 2.3 Explain various types of vulnerabilities
 ### Application
