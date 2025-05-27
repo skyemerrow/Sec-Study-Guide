@@ -8,7 +8,7 @@ Categories:
 * Operational
 * Physical
 
-/tControl Types:
+Control Types:
 * Preventative
 * Deterrent
 * Detective
@@ -19,12 +19,16 @@ Categories:
 ## 1.2 Summarize Fundamental Security Concepts
 
 Confidentiality, Integrity, and Availability (CIA)
+
 Non-repudiation
+
 Authentication, Authorization, and Accounting (AAA) 
 * Authenticating people
 * Authenticating systems
 * Authenticating models
+  
 Gap analysis
+
 Zero trust
 * Control Plane:
   1. Adaptive dentity
@@ -36,6 +40,7 @@ Zero trust
   1. Implicit Trust Zones
   2. Subject/System
   3. Policy Enforcement Point
+     
 Physical Security
 * Bollards
 * Access Control Vestibule
@@ -49,6 +54,7 @@ Physical Security
   2. Pressure
   3. Microwave
   4. Ultrasonic
+     
 Deception and Disruptions Technology
 * Honeypot
 * Honeynet
