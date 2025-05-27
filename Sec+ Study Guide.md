@@ -8,7 +8,7 @@ Categories:
 * Operational
 * Physical
 
-Control Types:
+/tControl Types:
 * Preventative
 * Deterrent
 * Detective
