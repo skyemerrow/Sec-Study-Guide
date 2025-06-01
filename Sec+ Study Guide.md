@@ -173,3 +173,39 @@
 * Typosquatting
 ## 2.3 Explain various types of vulnerabilities
 ### Application
+* Memory Injection
+* Buffer overflow
+* Race conditions
+  1. Time-of-check (TOC)
+  2. Time-of-use (TOU)
+* Malicious update
+### Operating system (OS)-based
+### Web based
+* Structured Query Lanuage injection (SQLi)
+* Cross-site scripting (XSS)
+### Hardware
+* Firmware
+* End-of-life
+* Legacy
+### Virtualzation
+* Virtual Machine (VM) escape
+* Resource reuse
+### Cloud-specific
+### Supply chain
+* Service provider
+* Hardware provider
+* Software provider
+### Cryptographic
+### Misconfiguration
+### Mobile device
+* Side loading
+* Jailbreaking
+### Zero-day
+## 2.4 Given a scenario, analyze indicators of malicious activity
+### Malware attacks
+### Pysical attacks
+### Network Attacks
+### Application Attacks
+### Cryptographic Attacks
+### Password Attacks
+### Indicators
