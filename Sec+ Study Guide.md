@@ -25,13 +25,13 @@ The exam is divided into the following domains and their corresponding weight on
 | 1.0 General Security Concepts | 12% |
 | 2.0 Threats, Vulnerabilities, and Mitigations | 22% |
 | 3.0 Security Architecture | 18% |
-| 4.0 Security Operations | [span_13](start_span)28% |
-| 5.0 Security Program Management and Oversight | [span_14](start_span)20%[span_14](end_span) |
-| **Total** | **[span_15](start_span)100%**[span_15](end_span) |
+| 4.0 Security Operations | 28% |
+| 5.0 Security Program Management and Oversight | 20% |
+| **Total** | **100%** |
 
 ### 1.0 General Security Concepts
 * **1.1 Compare and contrast various types of security controls.**
-    * **[span_16](start_span)Categories**: Technical, Managerial, Operational, Physical[span_16](end_span).
+    * **Categories**: Technical, Managerial, Operational, Physical[span_16](end_span).
     * **[span_17](start_span)Control types**: Preventive, Deterrent, Detective, Corrective, Compensating, Directive[span_17](end_span).
 * **1.2 Summarize fundamental security concepts.**
     * [span_18](start_span)Confidentiality, Integrity, and Availability (CIA)[span_18](end_span).
