@@ -3,10 +3,10 @@
 ## About the Exam
 
 The CompTIA Security+ certification exam (SY0-701) validates that a successful candidate has the knowledge and skills to:
-* [span_0](start_span)Assess the security posture of an enterprise environment and recommend appropriate security solutions[span_0](end_span).
-* [span_1](start_span)Monitor and secure hybrid environments, including cloud, mobile, and IoT[span_1](end_span).
-* [span_2](start_span)Operate with an awareness of applicable regulations and policies, including governance, risk, and compliance principles[span_2](end_span).
-* [span_3](start_span)Identify, analyze, and respond to security events and incidents[span_3](end_span).
+* Assess the security posture of an enterprise environment and recommend appropriate security solutions
+* Monitor and secure hybrid environments, including cloud, mobile, and IoT
+* Operate with an awareness of applicable regulations and policies, including governance, risk, and compliance principles
+* Identify, analyze, and respond to security events and incidents
 
 ## Test Details
 
