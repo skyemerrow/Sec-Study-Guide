@@ -11,10 +11,10 @@ The CompTIA Security+ certification exam (SY0-701) validates that a successful c
 ## Test Details
 
 * **Exam Number**: SY0-701
-* **[span_6](start_span)Number of Questions**: Maximum of 90[span_6](end_span)
-* **[span_7](start_span)Question Types**: Multiple-choice and performance-based[span_7](end_span)
-* **[span_8](start_span)Length of Test**: 90 minutes[span_8](end_span)
-* **[span_9](start_span)Recommended Experience**: A minimum of 2 years of experience in IT administration with a focus on security, hands-on experience with technical information security, and broad knowledge of security concepts[span_9](end_span).
+* **Number of Questions**: Maximum of 90
+* **Question Types**: Multiple-choice and performance-based
+* **Length of Test**: 90 minutes
+* **Recommended Experience**: A minimum of 2 years of experience in IT administration with a focus on security, hands-on experience with technical information security, and broad knowledge of security concepts[span_9](end_span).
 
 ## Exam Objectives (Domains)
 
@@ -22,10 +22,10 @@ The exam is divided into the following domains and their corresponding weight on
 
 | Domain | Percentage of Examination |
 | :--- | :--- |
-| 1.0 General Security Concepts | [span_10](start_span)12%[span_10](end_span) |
-| 2.0 Threats, Vulnerabilities, and Mitigations | [span_11](start_span)22%[span_11](end_span) |
-| 3.0 Security Architecture | [span_12](start_span)18%[span_12](end_span) |
-| 4.0 Security Operations | [span_13](start_span)28%[span_13](end_span) |
+| 1.0 General Security Concepts | 12% |
+| 2.0 Threats, Vulnerabilities, and Mitigations | 22% |
+| 3.0 Security Architecture | 18% |
+| 4.0 Security Operations | [span_13](start_span)28% |
 | 5.0 Security Program Management and Oversight | [span_14](start_span)20%[span_14](end_span) |
 | **Total** | **[span_15](start_span)100%**[span_15](end_span) |
 
