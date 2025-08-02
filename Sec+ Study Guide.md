@@ -31,15 +31,15 @@ The exam is divided into the following domains and their corresponding weight on
 
 ### 1.0 General Security Concepts
 * **1.1 Compare and contrast various types of security controls.**
-    * **Categories**: Technical, Managerial, Operational, Physical[span_16](end_span).
-    * **[span_17](start_span)Control types**: Preventive, Deterrent, Detective, Corrective, Compensating, Directive[span_17](end_span).
+    * **Categories**: Technical, Managerial, Operational, Physical.
+    * **(start_span)Control types**: Preventive, Deterrent, Detective, Corrective, Compensating, Directive[span_17](end_span).
 * **1.2 Summarize fundamental security concepts.**
-    * [span_18](start_span)Confidentiality, Integrity, and Availability (CIA)[span_18](end_span).
-    * [span_19](start_span)Non-repudiation[span_19](end_span).
-    * [span_20](start_span)Authentication, Authorization, and Accounting (AAA)[span_20](end_span).
-    * [span_21](start_span)Zero Trust[span_21](end_span).
-    * [span_22](start_span)Physical security, including bollards, fencing, and security guards[span_22](end_span).
-    * [span_23](start_span)Deception and disruption technology, such as honeypots and honeynets[span_23](end_span).
+    * (start_span)Confidentiality, Integrity, and Availability (CIA)(end_span).
+    * (start_span)Non-repudiation[span_19](end_span).
+    * (start_span)Authentication, Authorization, and Accounting (AAA)(end_span).
+    * (start_span)Zero Trust[span_21](end_span).
+    * (start_span)Physical security, including bollards, fencing, and security guards(end_span).
+    * (start_span)Deception and disruption technology, such as honeypots and honeynets(end_span).
 * **1.3 Explain the importance of change management processes and the impact to security.**
     * **[span_24](start_span)Business processes**: Approval process, stakeholders, impact analysis, backout plan[span_24](end_span).
     * **[span_25](start_span)Technical implications**: Allow lists/deny lists, downtime, legacy applications, documentation[span_25](end_span).
