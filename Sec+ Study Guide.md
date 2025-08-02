@@ -32,25 +32,25 @@ The exam is divided into the following domains and their corresponding weight on
 ### 1.0 General Security Concepts
 * **1.1 Compare and contrast various types of security controls.**
     * **Categories**: Technical, Managerial, Operational, Physical.
-    * **(start_span)Control types**: Preventive, Deterrent, Detective, Corrective, Compensating, Directive[span_17](end_span).
+    * **Control types**: Preventive, Deterrent, Detective, Corrective, Compensating, Directive
 * **1.2 Summarize fundamental security concepts.**
-    * (start_span)Confidentiality, Integrity, and Availability (CIA)(end_span).
-    * (start_span)Non-repudiation[span_19](end_span).
-    * (start_span)Authentication, Authorization, and Accounting (AAA)(end_span).
-    * (start_span)Zero Trust[span_21](end_span).
-    * (start_span)Physical security, including bollards, fencing, and security guards(end_span).
-    * (start_span)Deception and disruption technology, such as honeypots and honeynets(end_span).
+    * Confidentiality, Integrity, and Availability (CIA)
+    * Non-repudiation
+    * Authentication, Authorization, and Accounting (AAA)
+    * Zero Trust
+    * Physical security, including bollards, fencing, and security guards
+    * Deception and disruption technology, such as honeypots and honeynets
 * **1.3 Explain the importance of change management processes and the impact to security.**
-    * **[span_24](start_span)Business processes**: Approval process, stakeholders, impact analysis, backout plan[span_24](end_span).
-    * **[span_25](start_span)Technical implications**: Allow lists/deny lists, downtime, legacy applications, documentation[span_25](end_span).
-    * [span_26](start_span)Version control[span_26](end_span).
+    * **Business processes**: Approval process, stakeholders, impact analysis, backout plan
+    * **Technical implications**: Allow lists/deny lists, downtime, legacy applications, documentation
+    * Version control
 * **1.4 Explain the importance of using appropriate cryptographic solutions.**
-    * [span_27](start_span)Public key infrastructure (PKI)[span_27](end_span).
-    * [span_28](start_span)Encryption levels: Full-disk, partition, file, volume[span_28](end_span).
-    * [span_29](start_span)Asymmetric and Symmetric encryption[span_29](end_span).
-    * [span_30](start_span)Hashing, including salting and key stretching[span_30](end_span).
-    * [span_31](start_span)Digital signatures[span_31](end_span).
-    * [span_32](start_span)Certificates and Certificate authorities (CAs)[span_32](end_span).
+    * Public key infrastructure (PKI)
+    * Encryption levels: Full-disk, partition, file, volume
+    * Asymmetric and Symmetric encryption
+    * Hashing, including salting and key stretching
+    * Digital signatures
+    * Certificates and Certificate authorities (CAs)
 
 ### 2.0 Threats, Vulnerabilities, and Mitigations
 * **2.1 Compare and contrast common threat actors and motivations.**
